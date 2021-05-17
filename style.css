@@ -526,8 +526,8 @@ body {
 }
 
 .pulse {
-    height: 100px;
-    width: 200px;
+    height: 50px;
+    width: 70px;
     overflow: hidden;
     position: absolute;
     top: 0;
