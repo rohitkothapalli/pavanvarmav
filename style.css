@@ -664,7 +664,7 @@ body {
 #camera,
 #panel {
     position: absolute;
-    left: 80%;
+    left: 40%;
     top: 150%;
     width: 300px;
     height: 300px;
